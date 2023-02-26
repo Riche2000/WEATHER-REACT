@@ -12,7 +12,8 @@ function App() {
           </div>
           <div className='section section__temperature'>
             <div className='icon'>
-              <h3></h3>
+              <h3>Longon, GB</h3>
+              <img src='' alt=''/>
             </div>
           </div>
         </div>
